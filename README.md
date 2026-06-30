@@ -437,8 +437,7 @@ Specialization: Artificial Intelligence and Technology
 AI/ML Internship: LaunchedGlobal.in
 
 - **GitHub**: [Bhuvan-TNL](https://github.com/Bhuvan-TNL)
-- **LinkedIn**: [Connect](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [Visit](#)
+- **LinkedIn**: [Connect](https://www.linkedin.com/in/bhuvanesh-bezawada/)
 
 ---
 
